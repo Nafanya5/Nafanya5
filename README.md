@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">Привет, меня зовут Лидия!</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+- Занимаюсь аналитикой данных 📈
+- Готова к сотрудничеству 🤝
+- Мои проекты 👇:
 
 <!--
 **Nafanya5/Nafanya5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
